@@ -1,2 +1,2 @@
 # Data-Preparation
-IoT data Analytics project 
+Details can be found in whitepaper
